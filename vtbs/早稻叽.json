@@ -2,7 +2,7 @@
   "name": {
     "cn": "早稻叽"
   },
-  "2d": true,
+  "group": "DuckDriver",
   "accounts": {
     "bilibili": "1950658"
   }
