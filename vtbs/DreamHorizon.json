@@ -2,5 +2,8 @@
   "name": {
     "en": "DreamHorizon"
   },
-  "type": "group"
+  "type": "group",
+  "accounts": {
+    "bilibili": "490912699"
+  }
 }
