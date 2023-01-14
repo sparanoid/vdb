@@ -1,0 +1,17 @@
+{
+  "name": {
+    "jp": "星街すいせい",
+    "cn": "星街彗星",
+    "en": "Hoshimati Suisei"
+  },
+  "2d": true,
+  "group": "Hololive",
+  "accounts": {
+    "youtube": "UC5CwaMl1eIgY8h02uZw7u8A",
+    "twitter": "suisei_hosimati",
+    "bilibili": {
+      "id": "9034870",
+      "type": "relay"
+    }
+  }
+}

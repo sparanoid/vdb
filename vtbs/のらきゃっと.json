@@ -1,0 +1,15 @@
+{
+  "2d": true,
+  "name": {
+    "jp": "のらきゃっと"
+  },
+  "accounts": {
+    "youtube": "UC3iwL9Yz8LcKkJsnLPevOTQ",
+    "twitter": "VR_Girl_NoraCat",
+    "bilibili": {
+      "type": "relay",
+      "id": "288793323"
+    }
+  },
+  "group": "upd8"
+}
